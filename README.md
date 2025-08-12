@@ -18,7 +18,7 @@ Permite adicionar nomes, validar entradas e sortear de forma prática e divertid
 ## 🖼 Capturas de Tela
 
 ### Tela Inicial
-![Tela Inicial](<assets/tela-inicial.png>)
+![Tela Inicial](<assets/img/tela-inicial.png>)
 
 ### Lista de Participantes
 ![Lista de Participantes](<assets/img/tela-participantes.png>)
@@ -26,10 +26,6 @@ Permite adicionar nomes, validar entradas e sortear de forma prática e divertid
 ### Tela de Sorteio
 ![Tela com o Sorteio dos Participantes](<assets/img/tela-sorteio.png>)
 
-
-*(As imagens devem estar na pasta `img` do repositório com os nomes `tela-inicial.png`, `lista-participantes.png` e `tela-sorteio.png`)*
-
----
 
 ## 🛠 Tecnologias Utilizadas
 
