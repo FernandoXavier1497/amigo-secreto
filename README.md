@@ -3,6 +3,10 @@
 Aplicação simples e interativa para realizar sorteios de **Amigo Secreto** diretamente no navegador.  
 Permite adicionar nomes, validar entradas e sortear de forma prática e divertida.
 
+
+🔗 **Acesse o projeto online:** [Clique aqui para jogar](https://fernandoxavier1497.github.io/amigo-secreto/)
+
+
 ---
 
 ## 📌 Funcionalidades
@@ -35,9 +39,7 @@ Permite adicionar nomes, validar entradas e sortear de forma prática e divertid
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 👨‍💻 Autor
 
-1. **Clone este repositório:**
-   ```bash
-   git clone https://github.com/FernandoXavier1497/amigo-secreto.git
-
+**Fernando Xavier**  
+📌 Desenvolvido como parte do **Challenge Amigo Secreto - Alura + ONE**.  
